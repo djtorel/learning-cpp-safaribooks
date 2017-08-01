@@ -1,2 +1,4 @@
 **/bin
 .vscode
+module03/temp-conversion-gtest/tests/temp_conversion_test
+module03/temp-conversion/tests/c2f
